@@ -76,7 +76,7 @@ Graph Visualization
 Traversal Concepts
 ▶️ How to Run the Project
 Download or Clone the Repository
-git clone https://github.com/your-username/dsa-visualizer.git
+git clone https://github.com/kb074001-prog/dsa-visualizer.git
 Open the project folder
 Run index.html in your browser
 
